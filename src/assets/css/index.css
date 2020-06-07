@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+body{  
+    background: blue;
+    background-image: url('../images/meinv.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+div > img {
+    width: 30px;
+    height: 30px;
+}
